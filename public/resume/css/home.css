@@ -1,0 +1,249 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'Helvetica', sans-serif;
+    background-color: rgb(1, 92, 112);
+}
+
+.header {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.menu {
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+/* Add padding-top to body or .container to prevent content being hidden under fixed header */
+body {
+    padding-top: 80px;
+    /* Adjust based on header height */
+}
+
+/* Menu items container */
+.menu-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.menu-home,
+.menu-resume,
+.menu-publications,
+.menu-projects,
+.menu-blogs,
+.menu-awards {
+    flex: 1;
+    text-align: center;
+    background-color: white;
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(1, 92, 112);
+    font-weight: 600;
+    padding: 10px 15px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    display: inline-block;
+    background-color: white;
+}
+
+.menu a:hover {
+    background-color: rgb(1, 92, 112);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 120px);
+    /* Trừ đi chiều cao của header */
+    padding: 20px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    max-width: 1200px;
+    min-height: 150px;
+    margin: auto;
+}
+
+.left-info {
+    width: auto;
+    height: auto;
+}
+
+.profile-photo img {
+    border-radius: 20px;
+}
+
+.right-info {
+    width: 65%;
+    height: auto;
+}
+
+.title-welcome h1 {
+    background: linear-gradient(90deg, #ffffff 0%, #00c3ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.title-welcome h2 {
+    background: linear-gradient(90deg, #08b9b9 0%, #ff01ea 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+
+/* Download CV Button */
+.download-cv {
+    margin: 20px 0;
+}
+
+.btn-download-cv {
+    display: inline-block;
+    background-color: white;
+    color: rgb(1, 92, 112);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 12px 24px;
+    border-radius: 25px;
+    border: 2px solid white;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);
+}
+
+.btn-download-cv:hover {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border-color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 255, 255, 0.3);
+}
+
+.btn-download-cv:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Social Account */
+.social-account {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.social-link {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.social-link:hover {
+    background-color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
+}
+
+.social-link img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+.social-link:hover img {
+    transform: scale(1.1);
+}
+
+/* Responsive design for info section */
+@media (max-width: 768px) {
+    .info {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+        width: 90%;
+    }
+
+    .left-info {
+        width: 100%;
+        order: 1;
+    }
+
+    .right-info {
+        width: 100%;
+        order: 2;
+    }
+
+    .profile-photo img {
+        max-width: 200px;
+        height: auto;
+        border-radius: 50%;
+    }
+
+    .social-account {
+        justify-content: center;
+        gap: 12px;
+    }
+
+    .social-link {
+        width: 35px;
+        height: 35px;
+        padding: 6px;
+    }
+}
+
+@media (max-width: 480px) {
+    .info {
+        width: 95%;
+        gap: 20px;
+    }
+
+    .profile-photo img {
+        max-width: 150px;
+    }
+
+    .title-welcome h1 {
+        font-size: 1.5em;
+    }
+
+    .title-welcome h2 {
+        font-size: 1.2em;
+    }
+}

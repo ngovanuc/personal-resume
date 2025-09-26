@@ -1,0 +1,136 @@
+/* Additional professional improvements */
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(1, 92, 112);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #015c70;
+}
+
+/* Selection color */
+::selection {
+    background: rgba(1, 92, 112, 0.3);
+    color: white;
+}
+
+::-moz-selection {
+    background: rgba(1, 92, 112, 0.3);
+    color: white;
+}
+
+/* Focus styles for accessibility */
+.menu a:focus,
+.btn-download-cv:focus,
+.social-link:focus {
+    outline: 2px solid #00c3ff;
+    outline-offset: 2px;
+}
+
+/* Loading spinner */
+.loading-spinner {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: white;
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Enhanced card shadows */
+.container,
+.profile-photo img,
+.image-item img {
+    box-shadow:
+        0 4px 6px -1px rgba(0, 0, 0, 0.1),
+        0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.container:hover,
+.profile-photo img:hover {
+    box-shadow:
+        0 10px 15px -3px rgba(0, 0, 0, 0.1),
+        0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Better typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Mobile improvements */
+@media (max-width: 768px) {
+
+    /* Better touch targets */
+    .menu a {
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .social-link {
+        min-width: 44px;
+        min-height: 44px;
+    }
+
+    .btn-download-cv {
+        min-height: 48px;
+    }
+}
+
+/* Print styles */
+@media print {
+
+    .header,
+    .scroll-to-top,
+    .social-account {
+        display: none !important;
+    }
+
+    body {
+        padding-top: 0;
+    }
+
+    .container {
+        box-shadow: none;
+        margin: 0;
+        background: white;
+    }
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+    .publication-item {
+        page-break-inside: avoid;
+    }
+}

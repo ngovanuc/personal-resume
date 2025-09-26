@@ -1,8 +1,78 @@
-/* Home page specific styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'Helvetica', sans-serif;
+}
+
 body {
     background-color: rgb(1, 92, 112);
     min-height: 100vh;
-    padding-top: 90px;
+}
+
+.header {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.menu {
+    margin: 15px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+}
+
+/* Menu items container */
+.menu-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 5px;
+}
+
+.menu-home,
+.menu-resume,
+.menu-publications,
+.menu-projects,
+.menu-blogs,
+.menu-awards {
+    text-align: center;
+    background-color: white;
+    min-width: 80px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(1, 92, 112);
+    font-weight: 600;
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    display: inline-block;
+    background-color: white;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.menu a:hover {
+    background-color: rgb(1, 92, 112);
+    color: white;
+    transform: translateY(-2px);
 }
 
 .body {
@@ -10,6 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: calc(100vh - 120px);
+    /* Trừ đi chiều cao của header */
     padding: 20px;
 }
 
@@ -51,10 +122,11 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    color: white;
-    /* Fallback for browsers that don't support background-clip */
+    color: transparent;
     font-size: 2.5em;
     margin-bottom: 10px;
+    /* Fallback for browsers that don't support background-clip */
+    color: white;
 }
 
 .title-welcome h2 {
@@ -62,11 +134,13 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    color: #00c3ff;
-    /* Fallback for browsers that don't support background-clip */
+    color: transparent;
     font-size: 1.8em;
     margin-bottom: 15px;
+    /* Fallback for browsers that don't support background-clip */
+    color: #00c3ff;
 }
+
 
 /* Download CV Button */
 .download-cv {
@@ -152,13 +226,42 @@ body {
         width: 90%;
         gap: 30px;
     }
+    
+    .menu {
+        font-size: 16px;
+        margin: 10px 15px;
+    }
+    
+    .menu a {
+        padding: 6px 10px;
+        font-size: 13px;
+    }
 }
 
 @media (max-width: 768px) {
+    .header {
+        padding: 0 10px;
+    }
+    
+    .menu {
+        margin: 10px;
+        width: calc(100% - 20px);
+    }
+    
+    .menu-items {
+        gap: 8px;
+        justify-content: center;
+    }
+    
+    .menu a {
+        padding: 8px 10px;
+        font-size: 12px;
+    }
+    
     body {
         padding-top: 100px;
     }
-
+    
     .info {
         flex-direction: column;
         text-align: center;
@@ -192,12 +295,12 @@ body {
         height: 40px;
         padding: 8px;
     }
-
+    
     .social-link img {
         width: 24px;
         height: 24px;
     }
-
+    
     .title-welcome h1 {
         font-size: 2em;
     }
@@ -207,11 +310,35 @@ body {
     }
 }
 
-@media (max-width: 480px) {
-    body {
-        padding-top: 110px;
+@media (max-width: 600px) {
+    .menu-items {
+        gap: 5px;
     }
+    
+    .menu a {
+        padding: 6px 8px;
+        font-size: 11px;
+    }
+}
 
+@media (max-width: 480px) {
+    .menu-items {
+        flex-direction: column;
+        gap: 8px;
+        padding: 10px;
+    }
+    
+    .menu a {
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        font-size: 14px;
+    }
+    
+    body {
+        padding-top: 200px;
+    }
+    
     .info {
         width: 95%;
         gap: 20px;
@@ -228,7 +355,7 @@ body {
     .title-welcome h2 {
         font-size: 1.3em;
     }
-
+    
     .social-account {
         gap: 10px;
     }
@@ -238,7 +365,7 @@ body {
         height: 35px;
         padding: 6px;
     }
-
+    
     .social-link img {
         width: 20px;
         height: 20px;

@@ -15,7 +15,7 @@ from fastapi.staticfiles import StaticFiles
 
 
 # warnings.filterwarnings("ignore")
-os.system("cls")
+# os.system("cls")
 load_dotenv()
 
 
@@ -47,3 +47,7 @@ async def resume(request: Request):
             "request": request
         }
     )
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="127.0.0.1", port=8080)

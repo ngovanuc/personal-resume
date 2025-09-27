@@ -1,0 +1,800 @@
+2025-09-27 03:47:56,229 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:47:56,247 - main - INFO - Response: 200 | Time: 0.0185s
+2025-09-27 03:47:56,275 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:47:56,276 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:47:56,280 - main - INFO - Response: 200 | Time: 0.0051s
+2025-09-27 03:47:56,281 - main - INFO - Response: 200 | Time: 0.0054s
+2025-09-27 03:47:56,295 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:47:56,300 - main - INFO - Response: 200 | Time: 0.0056s
+2025-09-27 03:48:09,162 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:48:09,165 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:48:18,607 - main - INFO - Request: GET http://localhost/metrics
+2025-09-27 03:48:18,638 - main - INFO - Response: 200 | Time: 0.0306s
+2025-09-27 03:48:26,351 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:26,355 - main - INFO - Response: 200 | Time: 0.0046s
+2025-09-27 03:48:26,358 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:26,359 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:48:26,367 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:26,368 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:48:26,391 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:26,395 - main - INFO - Response: 200 | Time: 0.0035s
+2025-09-27 03:48:56,460 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:56,461 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:56,461 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:48:56,462 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:48:56,479 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:56,480 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:48:56,485 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:48:56,505 - main - INFO - Response: 200 | Time: 0.0203s
+2025-09-27 03:49:26,539 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:26,540 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:49:26,558 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:26,562 - main - INFO - Response: 200 | Time: 0.0043s
+2025-09-27 03:49:26,620 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:26,643 - main - INFO - Response: 200 | Time: 0.0248s
+2025-09-27 03:49:26,641 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:26,671 - main - INFO - Response: 200 | Time: 0.0313s
+2025-09-27 03:49:56,643 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:56,643 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:56,644 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:49:56,644 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:49:56,710 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:56,712 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:49:56,739 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:49:56,740 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:50:26,737 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:26,739 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:50:26,745 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:26,746 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:50:26,773 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:26,775 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:50:26,821 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:26,855 - main - INFO - Response: 200 | Time: 0.0357s
+2025-09-27 03:50:56,845 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:56,846 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:50:56,854 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:56,855 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:50:56,922 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:56,935 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:50:56,936 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:50:56,952 - main - INFO - Response: 200 | Time: 0.0304s
+2025-09-27 03:51:26,955 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:26,955 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:26,957 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:51:26,957 - main - INFO - Response: 200 | Time: 0.0026s
+2025-09-27 03:51:27,006 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:27,008 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:51:27,021 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:27,022 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:51:57,071 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:57,073 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:51:57,081 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:57,084 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:51:57,106 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:57,107 - main - INFO - Response: 200 | Time: 0.0018s
+2025-09-27 03:51:57,112 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:51:57,113 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:52:27,172 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:27,173 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:52:27,174 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:27,175 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:52:27,183 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:27,184 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:52:27,189 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:27,191 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:52:34,314 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:52:34,316 - main - INFO - Response: 200 | Time: 0.0019s
+2025-09-27 03:52:57,265 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:57,267 - main - INFO - Response: 200 | Time: 0.0020s
+2025-09-27 03:52:57,267 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:57,268 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:52:57,270 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:57,272 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:52:57,280 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:52:57,281 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:53:27,377 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:27,377 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:27,378 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:53:27,379 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:53:27,381 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:27,382 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:53:27,901 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:28,086 - main - INFO - Response: 200 | Time: 0.1956s
+2025-09-27 03:53:32,100 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,114 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,114 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,116 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,119 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,122 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,146 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,150 - main - INFO - Response: 200 | Time: 0.0363s
+2025-09-27 03:53:32,136 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,176 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,189 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,194 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,166 - main - INFO - Response: 200 | Time: 0.0447s
+2025-09-27 03:53:32,165 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,214 - main - INFO - Response: 200 | Time: 0.1003s
+2025-09-27 03:53:32,222 - main - INFO - Response: 200 | Time: 0.1029s
+2025-09-27 03:53:32,231 - main - INFO - Response: 200 | Time: 0.1150s
+2025-09-27 03:53:32,232 - main - INFO - Response: 200 | Time: 0.0853s
+2025-09-27 03:53:32,234 - main - INFO - Response: 200 | Time: 0.0456s
+2025-09-27 03:53:32,237 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,238 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:53:32,239 - main - INFO - Response: 200 | Time: 0.1398s
+2025-09-27 03:53:32,266 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,267 - main - INFO - Response: 200 | Time: 0.0735s
+2025-09-27 03:53:32,268 - main - INFO - Response: 200 | Time: 0.1331s
+2025-09-27 03:53:32,271 - main - INFO - Response: 200 | Time: 0.0049s
+2025-09-27 03:53:32,318 - main - INFO - Response: 200 | Time: 0.1540s
+2025-09-27 03:53:32,336 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,339 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,341 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,348 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,352 - main - INFO - Response: 200 | Time: 0.0038s
+2025-09-27 03:53:32,353 - main - INFO - Response: 200 | Time: 0.0122s
+2025-09-27 03:53:32,353 - main - INFO - Response: 200 | Time: 0.1791s
+2025-09-27 03:53:32,358 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,363 - main - INFO - Response: 200 | Time: 0.0053s
+2025-09-27 03:53:32,370 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,373 - main - INFO - Response: 200 | Time: 0.0030s
+2025-09-27 03:53:32,380 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,380 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,382 - main - INFO - Response: 200 | Time: 0.0020s
+2025-09-27 03:53:32,383 - main - INFO - Response: 200 | Time: 0.0039s
+2025-09-27 03:53:32,391 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,395 - main - INFO - Response: 200 | Time: 0.0043s
+2025-09-27 03:53:32,398 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,398 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,398 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,399 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,401 - main - INFO - Response: 200 | Time: 0.0026s
+2025-09-27 03:53:32,401 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,402 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,402 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:53:32,406 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,406 - main - INFO - Response: 200 | Time: 0.0006s
+2025-09-27 03:53:32,407 - main - INFO - Response: 200 | Time: 0.0086s
+2025-09-27 03:53:32,411 - main - INFO - Response: 200 | Time: 0.0128s
+2025-09-27 03:53:32,416 - main - INFO - Response: 200 | Time: 0.0809s
+2025-09-27 03:53:32,417 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,418 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,419 - main - INFO - Response: 200 | Time: 0.0180s
+2025-09-27 03:53:32,419 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,420 - main - INFO - Response: 200 | Time: 0.0018s
+2025-09-27 03:53:32,421 - main - INFO - Response: 200 | Time: 0.0020s
+2025-09-27 03:53:32,422 - main - INFO - Response: 200 | Time: 0.0047s
+2025-09-27 03:53:32,422 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,423 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,424 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,425 - main - INFO - Response: 200 | Time: 0.0261s
+2025-09-27 03:53:32,426 - main - INFO - Response: 200 | Time: 0.0026s
+2025-09-27 03:53:32,429 - main - INFO - Response: 200 | Time: 0.0061s
+2025-09-27 03:53:32,430 - main - INFO - Response: 200 | Time: 0.0064s
+2025-09-27 03:53:32,433 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,433 - main - INFO - Response: 200 | Time: 0.0955s
+2025-09-27 03:53:32,435 - main - INFO - Response: 200 | Time: 0.0019s
+2025-09-27 03:53:32,477 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,478 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,479 - main - INFO - Response: 200 | Time: 0.0021s
+2025-09-27 03:53:32,480 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,480 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,480 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,480 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,481 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:53:32,481 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,481 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:53:32,482 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,482 - main - INFO - Response: 200 | Time: 0.0021s
+2025-09-27 03:53:32,482 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:53:32,483 - main - INFO - Response: 200 | Time: 0.0030s
+2025-09-27 03:53:32,483 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,483 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,483 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:53:32,484 - main - INFO - Response: 200 | Time: 0.0006s
+2025-09-27 03:53:32,484 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:53:32,485 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,485 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:53:32,488 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,488 - main - INFO - Response: 200 | Time: 0.0006s
+2025-09-27 03:53:32,507 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,507 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,507 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,508 - main - INFO - Response: 200 | Time: 0.0301s
+2025-09-27 03:53:32,508 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:53:32,509 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,509 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,510 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,510 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:53:32,512 - main - INFO - Response: 200 | Time: 0.0053s
+2025-09-27 03:53:32,513 - main - INFO - Response: 200 | Time: 0.0035s
+2025-09-27 03:53:32,515 - main - INFO - Response: 200 | Time: 0.0077s
+2025-09-27 03:53:32,516 - main - INFO - Response: 200 | Time: 0.0070s
+2025-09-27 03:53:32,542 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,844 - main - INFO - Response: 200 | Time: 0.3233s
+2025-09-27 03:53:32,840 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:32,909 - main - INFO - Response: 200 | Time: 0.0801s
+2025-09-27 03:53:33,124 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:33,196 - main - INFO - Response: 200 | Time: 0.0830s
+2025-09-27 03:53:33,155 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:33,242 - main - INFO - Request: GET http://localhost/health
+2025-09-27 03:53:33,339 - main - INFO - Response: 200 | Time: 0.1915s
+2025-09-27 03:53:33,439 - main - INFO - Response: 200 | Time: 0.2055s
+2025-09-27 03:53:57,474 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:57,476 - main - INFO - Response: 200 | Time: 0.0023s
+2025-09-27 03:53:57,477 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:57,478 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:53:57,479 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:57,485 - main - INFO - Response: 200 | Time: 0.0063s
+2025-09-27 03:53:58,210 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:53:58,217 - main - INFO - Response: 200 | Time: 0.0074s
+2025-09-27 03:54:27,559 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:27,562 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:27,564 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:27,566 - main - INFO - Response: 200 | Time: 0.0024s
+2025-09-27 03:54:27,572 - main - INFO - Response: 200 | Time: 0.0130s
+2025-09-27 03:54:27,597 - main - INFO - Response: 200 | Time: 0.0349s
+2025-09-27 03:54:28,288 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:28,292 - main - INFO - Response: 200 | Time: 0.0033s
+2025-09-27 03:54:57,659 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:57,659 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:57,660 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:54:57,662 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:54:57,673 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:57,785 - main - INFO - Response: 200 | Time: 0.1120s
+2025-09-27 03:54:58,388 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:54:58,389 - main - INFO - Response: 200 | Time: 0.0018s
+2025-09-27 03:55:27,732 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:55:27,733 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:55:27,734 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:55:27,736 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:55:27,855 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:55:27,855 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:55:28,456 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:55:28,457 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:56:33,213 - main - INFO - Request: HEAD http://backend/health
+2025-09-27 03:56:33,231 - main - INFO - Response: 405 | Time: 0.0285s
+2025-09-27 03:56:38,604 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:56:38,607 - main - INFO - Response: 200 | Time: 0.0027s
+2025-09-27 03:56:52,755 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:56:52,760 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:56:52,761 - main - INFO - Response: 200 | Time: 0.0064s
+2025-09-27 03:56:52,763 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:56:52,767 - main - INFO - Response: 200 | Time: 0.0073s
+2025-09-27 03:56:52,768 - main - INFO - Response: 200 | Time: 0.0051s
+2025-09-27 03:56:52,789 - main - INFO - Request: GET http://localhost:8080/
+2025-09-27 03:56:52,799 - main - INFO - Response: 200 | Time: 0.0106s
+2025-09-27 03:57:04,206 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,210 - main - INFO - Response: 200 | Time: 0.0048s
+2025-09-27 03:57:04,214 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,215 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,215 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,219 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,220 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,220 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,226 - main - INFO - Response: 200 | Time: 0.0064s
+2025-09-27 03:57:04,228 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,228 - main - INFO - Response: 200 | Time: 0.0139s
+2025-09-27 03:57:04,228 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,230 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,230 - main - INFO - Response: 200 | Time: 0.0149s
+2025-09-27 03:57:04,231 - main - INFO - Response: 200 | Time: 0.0029s
+2025-09-27 03:57:04,233 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,233 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:57:04,234 - main - INFO - Response: 200 | Time: 0.0143s
+2025-09-27 03:57:04,235 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:57:04,236 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,236 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,239 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,237 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,240 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,241 - main - INFO - Response: 200 | Time: 0.0046s
+2025-09-27 03:57:04,238 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,243 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,243 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,240 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,244 - main - INFO - Response: 200 | Time: 0.0082s
+2025-09-27 03:57:04,246 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,246 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,250 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,247 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,252 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,252 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,253 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,254 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,255 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,255 - main - INFO - Response: 200 | Time: 0.0147s
+2025-09-27 03:57:04,255 - main - INFO - Response: 200 | Time: 0.0120s
+2025-09-27 03:57:04,257 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,257 - main - INFO - Response: 200 | Time: 0.0058s
+2025-09-27 03:57:04,258 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,259 - main - INFO - Response: 200 | Time: 0.0075s
+2025-09-27 03:57:04,259 - main - INFO - Response: 200 | Time: 0.0098s
+2025-09-27 03:57:04,261 - main - INFO - Response: 200 | Time: 0.0078s
+2025-09-27 03:57:04,262 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,262 - main - INFO - Response: 200 | Time: 0.0072s
+2025-09-27 03:57:04,264 - main - INFO - Response: 200 | Time: 0.0104s
+2025-09-27 03:57:04,264 - main - INFO - Response: 200 | Time: 0.0068s
+2025-09-27 03:57:04,265 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,265 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,264 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,268 - main - INFO - Response: 200 | Time: 0.0279s
+2025-09-27 03:57:04,268 - main - INFO - Response: 200 | Time: 0.0099s
+2025-09-27 03:57:04,268 - main - INFO - Response: 200 | Time: 0.0033s
+2025-09-27 03:57:04,269 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,270 - main - INFO - Response: 200 | Time: 0.0054s
+2025-09-27 03:57:04,270 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,271 - main - INFO - Response: 200 | Time: 0.0023s
+2025-09-27 03:57:04,271 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,274 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,274 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,274 - main - INFO - Response: 200 | Time: 0.0124s
+2025-09-27 03:57:04,274 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,276 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,276 - main - INFO - Response: 200 | Time: 0.0404s
+2025-09-27 03:57:04,277 - main - INFO - Response: 200 | Time: 0.0384s
+2025-09-27 03:57:04,278 - main - INFO - Response: 200 | Time: 0.0136s
+2025-09-27 03:57:04,278 - main - INFO - Response: 200 | Time: 0.0046s
+2025-09-27 03:57:04,279 - main - INFO - Response: 200 | Time: 0.0045s
+2025-09-27 03:57:04,282 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,284 - main - INFO - Response: 200 | Time: 0.0019s
+2025-09-27 03:57:04,284 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,285 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,287 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,288 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:04,289 - main - INFO - Response: 200 | Time: 0.0458s
+2025-09-27 03:57:04,289 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,290 - main - INFO - Response: 200 | Time: 0.0432s
+2025-09-27 03:57:04,291 - main - INFO - Response: 200 | Time: 0.0068s
+2025-09-27 03:57:04,292 - main - INFO - Response: 200 | Time: 0.0070s
+2025-09-27 03:57:04,293 - main - INFO - Response: 200 | Time: 0.0035s
+2025-09-27 03:57:04,278 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,296 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,297 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,297 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:04,297 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,306 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,308 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,308 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,315 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,315 - main - INFO - Response: 200 | Time: 0.0683s
+2025-09-27 03:57:04,316 - main - INFO - Response: 200 | Time: 0.0506s
+2025-09-27 03:57:04,316 - main - INFO - Response: 200 | Time: 0.0703s
+2025-09-27 03:57:04,317 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,318 - main - INFO - Response: 200 | Time: 0.0983s
+2025-09-27 03:57:04,318 - main - INFO - Response: 200 | Time: 0.0024s
+2025-09-27 03:57:04,319 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,319 - main - INFO - Response: 200 | Time: 0.0916s
+2025-09-27 03:57:04,320 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,322 - main - INFO - Response: 200 | Time: 0.0055s
+2025-09-27 03:57:04,324 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,220 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,326 - main - INFO - Response: 200 | Time: 0.0076s
+2025-09-27 03:57:04,326 - main - INFO - Response: 200 | Time: 0.0888s
+2025-09-27 03:57:04,326 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,327 - main - INFO - Response: 200 | Time: 0.0582s
+2025-09-27 03:57:04,328 - main - INFO - Response: 200 | Time: 0.1124s
+2025-09-27 03:57:04,328 - main - INFO - Response: 200 | Time: 0.1084s
+2025-09-27 03:57:04,329 - main - INFO - Response: 200 | Time: 0.0049s
+2025-09-27 03:57:04,329 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,330 - main - INFO - Response: 200 | Time: 0.0035s
+2025-09-27 03:57:04,330 - main - INFO - Response: 200 | Time: 0.0223s
+2025-09-27 03:57:04,331 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:57:04,345 - main - INFO - Response: 200 | Time: 0.0745s
+2025-09-27 03:57:04,345 - main - INFO - Response: 200 | Time: 0.0673s
+2025-09-27 03:57:04,346 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:04,347 - main - INFO - Response: 200 | Time: 0.0711s
+2025-09-27 03:57:04,347 - main - INFO - Response: 200 | Time: 0.0507s
+2025-09-27 03:57:04,348 - main - INFO - Response: 200 | Time: 0.0506s
+2025-09-27 03:57:04,348 - main - INFO - Response: 200 | Time: 0.0287s
+2025-09-27 03:57:04,349 - main - INFO - Response: 200 | Time: 0.0423s
+2025-09-27 03:57:04,349 - main - INFO - Response: 200 | Time: 0.0033s
+2025-09-27 03:57:04,349 - main - INFO - Response: 200 | Time: 0.0411s
+2025-09-27 03:57:05,357 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,358 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,358 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,358 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,358 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,363 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,364 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,365 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,366 - main - INFO - Response: 200 | Time: 0.0079s
+2025-09-27 03:57:05,367 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,367 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,369 - main - INFO - Response: 200 | Time: 0.0041s
+2025-09-27 03:57:05,371 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,372 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,372 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,374 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,374 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,374 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,375 - main - INFO - Response: 200 | Time: 0.0163s
+2025-09-27 03:57:05,375 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,376 - main - INFO - Response: 200 | Time: 0.0180s
+2025-09-27 03:57:05,376 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,377 - main - INFO - Response: 200 | Time: 0.0129s
+2025-09-27 03:57:05,377 - main - INFO - Response: 200 | Time: 0.0109s
+2025-09-27 03:57:05,378 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,379 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:57:05,379 - main - INFO - Response: 200 | Time: 0.0069s
+2025-09-27 03:57:05,380 - main - INFO - Response: 200 | Time: 0.0082s
+2025-09-27 03:57:05,380 - main - INFO - Response: 200 | Time: 0.0172s
+2025-09-27 03:57:05,381 - main - INFO - Response: 200 | Time: 0.0071s
+2025-09-27 03:57:05,381 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,381 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,382 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,382 - main - INFO - Response: 200 | Time: 0.0246s
+2025-09-27 03:57:05,382 - main - INFO - Response: 200 | Time: 0.0085s
+2025-09-27 03:57:05,383 - main - INFO - Response: 200 | Time: 0.0088s
+2025-09-27 03:57:05,384 - main - INFO - Response: 200 | Time: 0.0088s
+2025-09-27 03:57:05,385 - main - INFO - Response: 200 | Time: 0.0180s
+2025-09-27 03:57:05,386 - main - INFO - Response: 200 | Time: 0.0099s
+2025-09-27 03:57:05,390 - main - INFO - Response: 200 | Time: 0.0088s
+2025-09-27 03:57:05,390 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,391 - main - INFO - Response: 200 | Time: 0.0335s
+2025-09-27 03:57:05,393 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,394 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:05,395 - main - INFO - Response: 200 | Time: 0.0225s
+2025-09-27 03:57:05,396 - main - INFO - Response: 200 | Time: 0.0149s
+2025-09-27 03:57:05,397 - main - INFO - Response: 200 | Time: 0.0147s
+2025-09-27 03:57:05,414 - main - INFO - Response: 200 | Time: 0.0242s
+2025-09-27 03:57:05,471 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,471 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,471 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,473 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,474 - main - INFO - Response: 200 | Time: 0.0035s
+2025-09-27 03:57:05,474 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:05,474 - main - INFO - Response: 200 | Time: 0.0031s
+2025-09-27 03:57:05,475 - main - INFO - Response: 200 | Time: 0.0046s
+2025-09-27 03:57:05,476 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,477 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,477 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,477 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,479 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,480 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:05,480 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:05,481 - main - INFO - Response: 200 | Time: 0.0037s
+2025-09-27 03:57:05,481 - main - INFO - Response: 200 | Time: 0.0037s
+2025-09-27 03:57:05,488 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,490 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:57:05,497 - main - INFO - Response: 200 | Time: 0.0206s
+2025-09-27 03:57:05,498 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,502 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:05,512 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,514 - main - INFO - Response: 200 | Time: 0.0018s
+2025-09-27 03:57:05,519 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,520 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:57:05,535 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,538 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:05,539 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,545 - main - INFO - Response: 200 | Time: 0.0057s
+2025-09-27 03:57:05,560 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,561 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:05,561 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,562 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:05,569 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,570 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:05,578 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,579 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:05,595 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,596 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:05,605 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,605 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:05,610 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,611 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:05,624 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,625 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:05,632 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,633 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:05,638 - main - INFO - Request: GET http://localhost/
+2025-09-27 03:57:05,639 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:06,647 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,647 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,647 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,648 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:06,648 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:06,648 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,648 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,649 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,649 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,649 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,649 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,649 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,650 - main - INFO - Response: 200 | Time: 0.0027s
+2025-09-27 03:57:06,650 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,650 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:57:06,650 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,650 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:57:06,651 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:57:06,651 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:57:06,651 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,651 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:06,651 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:06,652 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:06,652 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,652 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,652 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,652 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,653 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,653 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,653 - main - INFO - Response: 200 | Time: 0.0037s
+2025-09-27 03:57:06,653 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,653 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,653 - main - INFO - Response: 200 | Time: 0.0041s
+2025-09-27 03:57:06,654 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:57:06,654 - main - INFO - Response: 200 | Time: 0.0018s
+2025-09-27 03:57:06,654 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,654 - main - INFO - Response: 200 | Time: 0.0038s
+2025-09-27 03:57:06,654 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,655 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,655 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,656 - main - INFO - Response: 200 | Time: 0.0043s
+2025-09-27 03:57:06,656 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,656 - main - INFO - Response: 200 | Time: 0.0033s
+2025-09-27 03:57:06,656 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,657 - main - INFO - Response: 200 | Time: 0.0039s
+2025-09-27 03:57:06,657 - main - INFO - Response: 200 | Time: 0.0048s
+2025-09-27 03:57:06,657 - main - INFO - Response: 200 | Time: 0.0042s
+2025-09-27 03:57:06,657 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,658 - main - INFO - Response: 200 | Time: 0.0018s
+2025-09-27 03:57:06,658 - main - INFO - Response: 200 | Time: 0.0042s
+2025-09-27 03:57:06,658 - main - INFO - Response: 200 | Time: 0.0022s
+2025-09-27 03:57:06,659 - main - INFO - Response: 200 | Time: 0.0023s
+2025-09-27 03:57:06,659 - main - INFO - Response: 200 | Time: 0.0047s
+2025-09-27 03:57:06,658 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:06,660 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,660 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,660 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,660 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,660 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,660 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,661 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,661 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,661 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,661 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:06,661 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:57:06,661 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,661 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,662 - main - INFO - Response: 200 | Time: 0.0092s
+2025-09-27 03:57:06,662 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,662 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,663 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,663 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,663 - main - INFO - Response: 200 | Time: 0.0027s
+2025-09-27 03:57:06,663 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:06,664 - main - INFO - Response: 200 | Time: 0.0021s
+2025-09-27 03:57:06,664 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,664 - main - INFO - Response: 200 | Time: 0.0024s
+2025-09-27 03:57:06,664 - main - INFO - Response: 200 | Time: 0.0029s
+2025-09-27 03:57:06,665 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,665 - main - INFO - Response: 200 | Time: 0.0041s
+2025-09-27 03:57:06,665 - main - INFO - Response: 200 | Time: 0.0024s
+2025-09-27 03:57:06,665 - main - INFO - Response: 200 | Time: 0.0055s
+2025-09-27 03:57:06,666 - main - INFO - Response: 200 | Time: 0.0032s
+2025-09-27 03:57:06,666 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,666 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,666 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,667 - main - INFO - Response: 200 | Time: 0.0113s
+2025-09-27 03:57:06,667 - main - INFO - Response: 200 | Time: 0.0053s
+2025-09-27 03:57:06,667 - main - INFO - Response: 200 | Time: 0.0045s
+2025-09-27 03:57:06,668 - main - INFO - Response: 200 | Time: 0.0045s
+2025-09-27 03:57:06,668 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,670 - main - INFO - Response: 200 | Time: 0.0100s
+2025-09-27 03:57:06,670 - main - INFO - Response: 200 | Time: 0.0036s
+2025-09-27 03:57:06,670 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,670 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,671 - main - INFO - Response: 200 | Time: 0.0100s
+2025-09-27 03:57:06,671 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,671 - main - INFO - Response: 200 | Time: 0.0017s
+2025-09-27 03:57:06,672 - main - INFO - Response: 200 | Time: 0.0060s
+2025-09-27 03:57:06,674 - main - INFO - Response: 200 | Time: 0.0056s
+2025-09-27 03:57:06,676 - main - INFO - Response: 200 | Time: 0.0109s
+2025-09-27 03:57:06,677 - main - INFO - Response: 200 | Time: 0.0061s
+2025-09-27 03:57:06,678 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,681 - main - INFO - Response: 200 | Time: 0.0103s
+2025-09-27 03:57:06,684 - main - INFO - Response: 200 | Time: 0.0058s
+2025-09-27 03:57:06,686 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,687 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,687 - main - INFO - Response: 200 | Time: 0.0210s
+2025-09-27 03:57:06,688 - main - INFO - Response: 200 | Time: 0.0024s
+2025-09-27 03:57:06,690 - main - INFO - Response: 200 | Time: 0.0030s
+2025-09-27 03:57:06,697 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,698 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:06,706 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,707 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:06,918 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,919 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,920 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,920 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,921 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,922 - main - INFO - Response: 200 | Time: 0.0037s
+2025-09-27 03:57:06,923 - main - INFO - Response: 200 | Time: 0.0040s
+2025-09-27 03:57:06,923 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,923 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,923 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,924 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,924 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,924 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,924 - main - INFO - Response: 200 | Time: 0.0016s
+2025-09-27 03:57:06,925 - main - INFO - Response: 200 | Time: 0.0046s
+2025-09-27 03:57:06,925 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:06,925 - main - INFO - Response: 200 | Time: 0.0021s
+2025-09-27 03:57:06,926 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,926 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:06,927 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:57:06,928 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,929 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,930 - main - INFO - Response: 200 | Time: 0.0102s
+2025-09-27 03:57:06,931 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,931 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,931 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,932 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,932 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,939 - main - INFO - Response: 200 | Time: 0.0147s
+2025-09-27 03:57:06,939 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,939 - main - INFO - Response: 200 | Time: 0.0078s
+2025-09-27 03:57:06,939 - main - INFO - Response: 200 | Time: 0.0082s
+2025-09-27 03:57:06,939 - main - INFO - Response: 200 | Time: 0.0108s
+2025-09-27 03:57:06,939 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,940 - main - INFO - Response: 200 | Time: 0.0193s
+2025-09-27 03:57:06,941 - main - INFO - Response: 200 | Time: 0.0130s
+2025-09-27 03:57:06,941 - main - INFO - Response: 200 | Time: 0.0027s
+2025-09-27 03:57:06,942 - main - INFO - Response: 200 | Time: 0.0177s
+2025-09-27 03:57:06,941 - main - INFO - Response: 200 | Time: 0.0126s
+2025-09-27 03:57:06,942 - main - INFO - Response: 200 | Time: 0.0113s
+2025-09-27 03:57:06,943 - main - INFO - Response: 200 | Time: 0.0041s
+2025-09-27 03:57:06,947 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,950 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,952 - main - INFO - Response: 200 | Time: 0.0040s
+2025-09-27 03:57:06,956 - main - INFO - Response: 200 | Time: 0.0054s
+2025-09-27 03:57:06,957 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,958 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:06,965 - main - INFO - Response: 200 | Time: 0.0331s
+2025-09-27 03:57:06,980 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,981 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:06,979 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,986 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:06,987 - main - INFO - Response: 200 | Time: 0.0087s
+2025-09-27 03:57:06,987 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,001 - main - INFO - Response: 200 | Time: 0.0145s
+2025-09-27 03:57:07,001 - main - INFO - Response: 200 | Time: 0.0145s
+2025-09-27 03:57:07,005 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,007 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:57:07,009 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,013 - main - INFO - Response: 200 | Time: 0.0039s
+2025-09-27 03:57:07,023 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,027 - main - INFO - Response: 200 | Time: 0.0043s
+2025-09-27 03:57:07,032 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,035 - main - INFO - Response: 200 | Time: 0.0033s
+2025-09-27 03:57:07,043 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,048 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,049 - main - INFO - Response: 200 | Time: 0.0060s
+2025-09-27 03:57:07,049 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:07,060 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,064 - main - INFO - Response: 200 | Time: 0.0047s
+2025-09-27 03:57:07,066 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,067 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:57:07,077 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,089 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,112 - main - INFO - Response: 200 | Time: 0.0347s
+2025-09-27 03:57:07,112 - main - INFO - Response: 200 | Time: 0.0233s
+2025-09-27 03:57:07,116 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,117 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:07,120 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,122 - main - INFO - Response: 200 | Time: 0.0025s
+2025-09-27 03:57:07,122 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,128 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,148 - main - INFO - Response: 200 | Time: 0.0253s
+2025-09-27 03:57:07,148 - main - INFO - Response: 200 | Time: 0.0193s
+2025-09-27 03:57:07,153 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,153 - main - INFO - Response: 200 | Time: 0.0007s
+2025-09-27 03:57:07,159 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,160 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:07,162 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,166 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,175 - main - INFO - Response: 200 | Time: 0.0133s
+2025-09-27 03:57:07,175 - main - INFO - Response: 200 | Time: 0.0094s
+2025-09-27 03:57:07,186 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,186 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,246 - main - INFO - Response: 200 | Time: 0.0605s
+2025-09-27 03:57:07,246 - main - INFO - Response: 200 | Time: 0.0605s
+2025-09-27 03:57:07,253 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,254 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:07,257 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,258 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:07,262 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,266 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,275 - main - INFO - Response: 200 | Time: 0.0136s
+2025-09-27 03:57:07,276 - main - INFO - Response: 200 | Time: 0.0104s
+2025-09-27 03:57:07,281 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,282 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:57:07,284 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,285 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:07,289 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,291 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,299 - main - INFO - Response: 200 | Time: 0.0100s
+2025-09-27 03:57:07,299 - main - INFO - Response: 200 | Time: 0.0080s
+2025-09-27 03:57:07,305 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,306 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:07,311 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,315 - main - INFO - Response: 200 | Time: 0.0043s
+2025-09-27 03:57:07,318 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,321 - main - INFO - Response: 200 | Time: 0.0034s
+2025-09-27 03:57:07,366 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,366 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,367 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,367 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,367 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,373 - main - INFO - Response: 200 | Time: 0.0075s
+2025-09-27 03:57:07,373 - main - INFO - Response: 200 | Time: 0.0069s
+2025-09-27 03:57:07,374 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,374 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,374 - main - INFO - Response: 200 | Time: 0.0066s
+2025-09-27 03:57:07,375 - main - INFO - Response: 200 | Time: 0.0094s
+2025-09-27 03:57:07,376 - main - INFO - Response: 200 | Time: 0.0090s
+2025-09-27 03:57:07,376 - main - INFO - Response: 200 | Time: 0.0029s
+2025-09-27 03:57:07,378 - main - INFO - Response: 200 | Time: 0.0042s
+2025-09-27 03:57:07,383 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,384 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:07,386 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,388 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:57:07,396 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,405 - main - INFO - Response: 200 | Time: 0.0092s
+2025-09-27 03:57:07,412 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,414 - main - INFO - Response: 200 | Time: 0.0013s
+2025-09-27 03:57:07,417 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,422 - main - INFO - Response: 200 | Time: 0.0049s
+2025-09-27 03:57:07,426 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,428 - main - INFO - Response: 200 | Time: 0.0020s
+2025-09-27 03:57:07,468 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,469 - main - INFO - Response: 200 | Time: 0.0007s
+2025-09-27 03:57:07,471 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,471 - main - INFO - Response: 200 | Time: 0.0006s
+2025-09-27 03:57:07,474 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,475 - main - INFO - Response: 200 | Time: 0.0015s
+2025-09-27 03:57:07,480 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,484 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,502 - main - INFO - Response: 200 | Time: 0.0224s
+2025-09-27 03:57:07,502 - main - INFO - Response: 200 | Time: 0.0185s
+2025-09-27 03:57:07,544 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,545 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:57:07,549 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,549 - main - INFO - Response: 200 | Time: 0.0007s
+2025-09-27 03:57:07,551 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,552 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:57:07,557 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,557 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,558 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:57:07,558 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:07,562 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,563 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:57:07,568 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,568 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,569 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:07,569 - main - INFO - Response: 200 | Time: 0.0007s
+2025-09-27 03:57:07,570 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,571 - main - INFO - Response: 200 | Time: 0.0012s
+2025-09-27 03:57:07,577 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,579 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:57:07,587 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,587 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:57:07,597 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,598 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:57:07,608 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,609 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:07,616 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,617 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:07,628 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,629 - main - INFO - Response: 200 | Time: 0.0009s
+2025-09-27 03:57:07,637 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,638 - main - INFO - Response: 200 | Time: 0.0010s
+2025-09-27 03:57:07,649 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,650 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:07,658 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,659 - main - INFO - Response: 200 | Time: 0.0014s
+2025-09-27 03:57:07,668 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,668 - main - INFO - Response: 200 | Time: 0.0008s
+2025-09-27 03:57:07,678 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,679 - main - INFO - Response: 200 | Time: 0.0011s
+2025-09-27 03:57:07,687 - main - INFO - Request: GET http://backend/health
+2025-09-27 03:57:07,688 - main - INFO - Response: 200 | Time: 0.0010s

@@ -1,0 +1,120 @@
+# High-Scale Docker Compose for 10K users
+version: '3.8'
+
+services:
+  # Load Balancer
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx-highperf.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - web1
+      - web2
+      - web3
+      - web4
+    restart: always
+    networks:
+      - resume-network
+    ulimits:
+      nofile:
+        soft: 65535
+        hard: 65535
+
+  # Web Application Instances
+  web1:
+    build: .
+    environment:
+      - WORKERS=4
+      - ENV=production
+      - INSTANCE_ID=web1
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - resume-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+
+  web2:
+    build: .
+    environment:
+      - WORKERS=4
+      - ENV=production
+      - INSTANCE_ID=web2
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - resume-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+
+  web3:
+    build: .
+    environment:
+      - WORKERS=4
+      - ENV=production
+      - INSTANCE_ID=web3
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - resume-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+
+  web4:
+    build: .
+    environment:
+      - WORKERS=4
+      - ENV=production
+      - INSTANCE_ID=web4
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - resume-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+
+  # Redis for Session/Cache
+  redis:
+    image: redis:alpine
+    command: redis-server --maxmemory 256mb --maxmemory-policy allkeys-lru
+    networks:
+      - resume-network
+
+  # Monitoring
+  prometheus:
+    image: prom/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - resume-network
+
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    networks:
+      - resume-network
+
+networks:
+  resume-network:
+    driver: bridge
+
+volumes:
+  logs:
